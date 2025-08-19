@@ -1,3 +1,6 @@
+# horizontal_swiper
+
+<p align="center">
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/2af744f6-b1b5-4fbe-bfbd-31d09169a804" />
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/88f74acc-1f85-4964-9ff3-a8f873809929" />
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/3c753994-df20-4d8b-a569-0a820988fb0d" />
@@ -11,3 +14,4 @@
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/c62d2e49-a1ee-49b2-a358-cd230ec888d0" />
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/bac4b9ee-b1d9-4f7d-9ba3-b3b8f8abc31b" />
 <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/fd3f8d94-4156-487f-9c6e-79d57ed20dd3" />
+</p>
